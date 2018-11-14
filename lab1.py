@@ -130,7 +130,7 @@ print("\nNumber of runns",Counter,"\n")
 end = time.time()
 print("Time passed: ", end-start,"\n\n")
 
-print("---------------------------------------------------------------------------")
+print("--------------------------------------------------------------------------")
 
 Unsorted = sorted + Unsorted
 
